@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/sbc_sermon_media/.idea
+/sbc_sermon_media/db.sqlite3
